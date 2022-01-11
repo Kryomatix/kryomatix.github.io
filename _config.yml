@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Kryomatix's Projects
 description: A list of some of my projects
+github:
+  is_project_page: false
