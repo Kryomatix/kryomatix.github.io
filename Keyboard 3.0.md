@@ -6,7 +6,7 @@ This was my first time building a keyboard, so not everything turned out as expe
 The original V1 concept for this keyboard was a unibody design with an ergodox layout and a custom tilt
 ![20210318_150203](https://user-images.githubusercontent.com/95006894/149004340-c6e6d537-5152-417a-b3b9-ba2c72a1db26.jpg)
 
-Prototype V2.0 featured an altered layout derived from the ergodox but modified to accomodate ortholinear keys, as well as a more ergonomic thumb position when gaming with WASD
+Prototype V2.0 featured an altered layout derived from the ergodox but modified to accommodate ortholinear keys, as well as a more ergonomic thumb position when gaming with WASD
 - V2.0 added independently movable halves connected by a TRRS cable
 - V2.0 also used an ATMEGA32U4 in a QFN package to fit in the space by the thumb keys
 - The design also features rotary encoders in the corners of the keyboard
@@ -14,10 +14,10 @@ Prototype V2.0 featured an altered layout derived from the ergodox but modified 
 ![20210405_092546](https://user-images.githubusercontent.com/95006894/149004612-d8ee4036-f415-40ab-886b-3807106e41a3.jpg)
 
 Version 3.0 made significant changes to make the PCB easier to design.
-- The usb C port was moved to the outside corners to accommodate an extra key in the top inside corners
-- V3.0 also switches back to the ATMEGA32U4 ina TQFP package to allow trace routing directly under the chip
-- This version also switched to using a custom magnetic connector, but ultimtely the magnets ended up being too weak
-- All pcb design was done in KICAD
+- The USB-C port was moved to the outside corners to accommodate an extra key in the top inside corners
+- V3.0 also switches back to the ATMEGA32U4 in a TQFP package to allow trace routing directly under the chip
+- This version also switched to using a custom magnetic connector, but ultimately the magnets ended up being too weak
+- All PCB design was done in KICAD
 
 ![image](https://user-images.githubusercontent.com/95006894/149005883-685d2841-5d0b-4c37-a71b-f78e8181d3c9.png)
 
@@ -40,7 +40,7 @@ I reflowed the solder using a cheap hot plate
 
 This keyboard used SK6812mini LEDs since SK6812min-e LEDs were out of stock at the time. 
 Soldering in the LEDs in reversed orientation was difficult, and lead to many of the LEDs overheating and failing. 
-I strongly recomend against trying this. (Left has no LEDs, right has LEDs soldered)
+I strongly recommend against trying this. (Left has no LEDs, right has LEDs soldered)
 ![image](https://user-images.githubusercontent.com/95006894/149007808-1587fd13-e6b0-4e51-9aa4-89ae39e9ef2e.png)
 
 This keyboard used an ABS 3d-printed frame and laser cut acrylic bottom plate
@@ -54,8 +54,6 @@ I used Matt30 Mt3 Susuwatari keycaps and Zealio V2 switches on this build
 
 ![image](https://user-images.githubusercontent.com/95006894/149009811-e98b0008-27c7-4655-bc50-652102ac533f.png)
 
-The software for this keyboard was coded using arduino. In hindsight, I should have used the QMK toolkit or a similar library. 
+The software for this keyboard was coded using Arduino. In hindsight, I should have used the QMK toolkit or a similar library. 
 
 [return to main page](index.md)
-
-
