@@ -5,10 +5,8 @@ An ergonomic 3d-printed keyboard running CircuitPython
 
 ![20220103_094458](https://user-images.githubusercontent.com/95006894/148976400-9adbce1c-b63f-4ca7-ba45-499df5c862ff.jpg)
 
-## Python Duplicate File Finder
+## [Python Duplicate File Finder](https://github.com/Kryomatix/duplicate-file-finder)
 An open-source python program to find and delete duplicate files
-
-https://github.com/Kryomatix/duplicate-file-finder
 
 ## [Electric Unicycle Battery Heater](unicycle-heater.md)
 An electric heater that warms the batteries of my KingSong S18 up to operating temperature.
