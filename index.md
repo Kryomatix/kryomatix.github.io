@@ -10,7 +10,7 @@ An open-source python program to find and delete duplicate files
 
 https://github.com/Kryomatix/duplicate-file-finder
 
-## Electric Unicycle Battery Heater
+## [Electric Unicycle Battery Heater](unicycle-heater.md)
 An electric heater that warms the batteries of my KingSong S18 up to operating temperature.
 
 ![20220109_155621](https://user-images.githubusercontent.com/95006894/148976525-a588966f-f8e3-496a-9509-2ad3b729e0c4.jpg)
