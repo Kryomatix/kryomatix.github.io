@@ -18,4 +18,4 @@ An prototype keyboard design with a custom PCB.
 
 ![20210613_212449](https://user-images.githubusercontent.com/95006894/148976902-b436e58f-45c4-4917-a63c-a8cf9649ce86.jpg)
 
-#### [(Yellow text is a hyperlink with more detailed articles)](index.md)
+#### (Yellow text is a hyperlink to more detailed articles)
