@@ -134,4 +134,5 @@ class KMKKeyboard(_KMKKeyboard):
 The result is a keymap that looks something like this:
 ![image](https://user-images.githubusercontent.com/95006894/148992526-e02e26c1-b640-4a4c-8fa3-80d7a7c7d9da.png)
 
+[return to main page](index.md)
 
