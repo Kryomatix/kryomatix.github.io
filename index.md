@@ -1,4 +1,4 @@
-# Projects
+# **Projects:**
 
 ## [TKB mini 7x3](TKB mini 7x3.md) (2021)
 An ergonomic 3d-printed keyboard running CircuitPython
