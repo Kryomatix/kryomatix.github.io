@@ -4,13 +4,13 @@ A 3d-printed keyboard based on the [TKB mini](https://github.com/Bastardkb/TBK-M
 ![image](https://user-images.githubusercontent.com/95006894/148988769-16dda837-1a53-4945-a170-a8af8a00de50.png)
 
 This design adds an extra column of keys for the index finger, as well as custom electronics.
-This kyboard uses individual pcbs to optimize costs and prototyping time. 
-Each half runs on an Adafruit feather rp2040 using CircuitPython and the [kmk library](https://github.com/KMKfw/kmk_firmware)
+This keyboard uses individual PCBs to optimize costs and prototyping time. 
+Each half runs on an Adafruit feather rp2040 using Circuit Python and the [KMK library](https://github.com/KMKfw/kmk_firmware)
 
-PCBs were were designed in KICAD to have hotswap sockets and SK6812mini-e LEDS, while also being as small and cheap as possible.
+PCBs were were designed in KICAD to have hot-swap sockets and SK6812mini-e LEDS, while also being as small and cheap as possible.
 ![image](https://user-images.githubusercontent.com/95006894/148989108-bdbb451c-9263-417a-af24-52daab705306.png)
 
-The 48 individual PCBs were manufactured by OSHpark
+The 48 individual PCBs were manufactured by OSH Park
 ![20211126_174420](https://user-images.githubusercontent.com/95006894/148989272-a3c8826e-3007-43d4-89b5-a0abe943982c.jpg)
 
 I used a PCB stencil from OSH Stencils to apply the solder paste
@@ -19,7 +19,7 @@ I used a PCB stencil from OSH Stencils to apply the solder paste
 PCB component placement and hot-plate soldering
 ![20211128_123214](https://user-images.githubusercontent.com/95006894/148989712-83e8b8d3-4964-42ad-bc37-11cd230571ee.jpg)
 
-The pcb colums were soldered together using 2.54mm header pins that were trimmed down in length
+The PCB columns were soldered together using 2.54mm header pins that were trimmed down in length
 ![20211130_132931](https://user-images.githubusercontent.com/95006894/148990070-416cd75c-8802-47ed-a834-467573ff9c86.jpg)
 
 Once soldered, the I removed the entire electronics assembly and moved it to a new frame printed out of matte gray PLA
@@ -135,4 +135,3 @@ The result is a keymap that looks something like this:
 ![image](https://user-images.githubusercontent.com/95006894/148992526-e02e26c1-b640-4a4c-8fa3-80d7a7c7d9da.png)
 
 [return to main page](index.md)
-
