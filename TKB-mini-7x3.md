@@ -34,7 +34,7 @@ The keycaps are MT3 Cyber keycaps with dampening O-rings underneath
 ![20220103_094612](https://user-images.githubusercontent.com/95006894/148991161-a7263157-93ff-42a6-9798-aafd313f3ed6.jpg)
 ![20220103_094826](https://user-images.githubusercontent.com/95006894/148991259-8947aa99-93db-402f-ab51-40c5309c80c4.jpg)
 
-The code relatively simple
+The code is relatively simple
 ```
 print("Starting left side....")
 import board
