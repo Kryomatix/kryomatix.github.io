@@ -1,5 +1,10 @@
 # **Projects:**
 
+## [Radiomaster Tx16s Charging Fix](Radiomaster Tx16s fix.md) (2022)
+A hardware hack to fix USB-C charging
+
+![20220328_182305 1](https://user-images.githubusercontent.com/95006894/167709036-2e1d5241-aabc-4013-a1a7-a4426460b413.jpg)
+
 ## [Electric Unicycle Battery Heater](unicycle-heater.md) (2022)
 An electric heater that warms the batteries of my KingSong S18 up to operating temperature.
 
