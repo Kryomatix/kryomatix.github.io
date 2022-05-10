@@ -15,5 +15,7 @@ I used my multimeter to find a the pad of a nearby capacitor that was connected 
 ![20220328_182240 1](https://user-images.githubusercontent.com/95006894/167707857-8ef85e45-a115-4b76-8b98-0ce383540bbc.jpg)
 I used a standard 5.1k 0805 SMD resistor connected to ground and a piece of enameled wire to connect to the pin.
 
-The soldering job was quite difficult, since I was soldering to a huge ground plane while simultaneously trying not to melt the radio's plastic shell.
+The soldering job is certainly not the prettiest, since I was soldering to a huge ground plane while simultaneously trying not to melt the radio's plastic shell.
 In the end, everything works and the radio now charges properly. 
+
+[return to main page](index.md)
