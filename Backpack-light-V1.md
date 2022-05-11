@@ -1,8 +1,10 @@
 # Backpack Light V1.0
 This project is a very early prototype of my concept for a backpack-mounted light. I had a deadline of 2 weeks to complete the project, so I ended up choosing
 choosing components that were guaranteed to work, including the Attiny85 and 5050 RGBW neopixels. What I ended up with is a light that attaches magnetically and is
-powered externally with USB-C. I carry a USB power bank in my backpack anyways, so powering the light externally isn't a big deal. 
+powered externally with USB-C. I carry a USB power bank in my backpack anyways, so powering the light externally isn't a big deal.
 ![PackLight_exploded](https://user-images.githubusercontent.com/95006894/167876380-a33b358f-1aa4-444b-88d1-8ef005931328.PNG)
+The assembly features strong neodymium magnets to hold the light in place. There is a backplate section which goes inside the backpack with magnets
+for the light to stick to. 
 The 3D printed housing was modeled with Fusion 360, and the circuit board and schematic were created with KiCad.
 ![image](https://user-images.githubusercontent.com/95006894/167881981-2724794b-a5ed-461a-87e2-7d2695baba29.png)
 ![image](https://user-images.githubusercontent.com/95006894/167881709-26db6cff-e7f5-4346-b5cf-8f3c1506022c.png)
