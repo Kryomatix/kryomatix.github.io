@@ -2,8 +2,12 @@
 
 ## [Radiomaster Tx16s Charging Fix](Radiomaster Tx16s fix.md) (2022)
 A hardware hack to fix USB-C charging
-
 ![20220328_182305 1](https://user-images.githubusercontent.com/95006894/167709036-2e1d5241-aabc-4013-a1a7-a4426460b413.jpg)
+
+## [Magnetic Backpack Light](Backpack-light-V1.md) (2022)
+When riding a scooter, skateboard, or in my case, an electric unicycle, there isn't a convenient place to attach a visibility light. 
+Hence, the creation of this light which uses magnets to attach on the fabric of a backpack. 
+![20220310_144117](https://user-images.githubusercontent.com/95006894/167884496-2894a4ba-f370-4212-a272-8a0eca8d2640.jpg)
 
 ## [Electric Unicycle Battery Heater](unicycle-heater.md) (2022)
 An electric heater that warms the batteries of my KingSong S18 up to operating temperature.
