@@ -16,7 +16,7 @@ a medium sized chisel tip.
 ![20220511_105556](https://user-images.githubusercontent.com/95006894/167881250-9adc304d-1f84-4b09-9206-259efee533ab.jpg)
 
 Due to a difference in labeling between the schematic symbol and datasheet, I accidentally connected the mode button to the reset pin. 
-This prevented any code from executing, as the chip was in a constant state of resetting. Fortunately, my hot air station came to the rescue an I removed the Attiny85
+This prevented any code from executing, as the chip was in a constant state of resetting. Fortunately, my hot air station came to the rescue and I removed the Attiny85
 so I could cut the trace underneath and run a jumper wire to an unused pin.
 ![20220314_215355](https://user-images.githubusercontent.com/95006894/167877766-8631147e-9ca8-4e13-867d-62f597a231fb.jpg)
 ![20220314_220122](https://user-images.githubusercontent.com/95006894/167877815-8b47940d-8122-4f1c-971c-1b771b208d80.jpg)
