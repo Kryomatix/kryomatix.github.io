@@ -1,8 +1,6 @@
 # Lalboard - custom
 An efficient ergonomic keyboard based on the open source [Lalboard](https://github.com/JesusFreke/lalboard)
 
-![20221116_223454](https://user-images.githubusercontent.com/95006894/212992028-e5691b9f-02c8-4eaf-9a87-088033ea768e.jpg)
-
 ![20221205_134155](https://user-images.githubusercontent.com/95006894/212992184-e436a8f7-43fb-4b7b-8d3c-e6b4e9f4ad9a.jpg)
 
 
