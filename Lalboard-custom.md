@@ -27,3 +27,6 @@ An efficient ergonomic keyboard based on the open source [Lalboard](https://gith
 
 ![20230117_135014](https://user-images.githubusercontent.com/95006894/212994291-f777fc68-f4fb-420a-89fa-dcd17642148e.jpg)
 
+![20230117_174054](https://user-images.githubusercontent.com/95006894/213029826-1f910ef7-0947-4489-a0c9-5d55d77a263a.jpg)
+
+![20230117_174040](https://user-images.githubusercontent.com/95006894/213029902-e5ac972f-650e-42ed-b845-f9409da6d0f2.jpg)
