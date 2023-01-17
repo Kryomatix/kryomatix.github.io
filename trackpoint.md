@@ -1,7 +1,7 @@
 # Reverse Engineering a Trackpoint
 
 Trackpoints are a force sensitive joystick that function as a mouse, unique to lenovo and thinkpad laptops. I wanted to add one to 
-my own custom keyboard, so I bought a replacement thinkpad keyboard. 
+my own custom keyboard, so I bought a replacement thinkpad keyboard and ripped the trackpoint module out of it. 
 ![20230104_222238](https://user-images.githubusercontent.com/95006894/212996637-1c414bc0-fb3e-4973-a06e-5c3d08e6a356.jpg)
 
 ![20221106_152928](https://user-images.githubusercontent.com/95006894/212996008-a6f6717d-7bf0-4366-804a-e86000cfe683.jpg)
