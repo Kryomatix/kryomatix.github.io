@@ -1,7 +1,7 @@
 # **Projects:**
 
-## [Trackpoing Reverse Engineering](trackpoing.md) (2022)
-Cutting a trackpoing in half?
+## [Trackpoint Reverse Engineering](trackpoing.md) (2022)
+Cutting a trackpoint in half?
 ![20230117_152209](https://user-images.githubusercontent.com/95006894/213006127-574a8831-9778-409c-a4d0-db719e07caf3.jpg)
 
 ## [Radiomaster Tx16s Charging Fix](Radiomaster Tx16s fix.md) (2022)
