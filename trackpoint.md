@@ -8,20 +8,20 @@ my own custom keyboard, so I bought a replacement thinkpad keyboard and ripped t
 
 The one I recieved looked like it might be a cloned knockoff, so I used my oscilloscope to make sure that it actually works. 
 The trackpoint is supposed to communicate with the ps2 protocol. Looking at the waveform, it was high when idle, and there were
-data packets being sent when I applied force to the joystick, so it seems to be working.
+data packets being sent when I applied force to the joystick, so it appeared to be working.
 ![20221231_162213](https://user-images.githubusercontent.com/95006894/212997028-2a19b4de-aae6-4870-b78b-0e2a78ca5f36.jpg)
 
 According to the limited pinout information I found, the device requires 5V power. However, I wanted to use it with an rp2040 microcontroller
 which has a 3.3v logic level. When testing, I changed the power input to 3.3v, and observed that the data packets were still being sent
-and the voltage of the logic level pins didn't seem to have changed. After examining the board, I managed to locate a 3.3v regulator and saw that the
+and the voltage of the logic level pins didn't seem to have changed. After examining the board, I managed to locate a 3.3v regulator and discovered that the
 entire board actually runs on 3.3v. 
 ![20221231_163641](https://user-images.githubusercontent.com/95006894/212996254-7b76d98e-85d4-454f-9bfb-bb94c5780e96.jpg)
 
-Unfortunately, I realized that circuitpython doesn't support ps2 input on the rp2040. 
+I found out that circuitpython doesn't support ps2 input on the rp2040, so I wanted to try interfacing with the joystick directly instead of through ps2 module. 
 
 None of the chips had any markings that allowed me to identify them, so I had to start reverse engineering the rest of the circuit using my multimeter.
 I ended up with this diagram, showing that the joystick itself has a power and ground input, and 2 outputs. This suggests that it works like any other
-analog joystick, which outputs an analog voltage relative to its position. Based on the configuration of the resistors, I'm certain that the mystery chip
+analog joystick, which outputs an analog voltage relative to its position. Based on the configuration of the resistors, the mystery chip
 is an inverting op amp with a gain of about 10. 
 ![image](https://user-images.githubusercontent.com/95006894/212998209-094f9c1d-65b6-438b-b2a0-be5dd234eb05.png)
 
